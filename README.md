@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://2f9092a7-0479-4828-9ae3-ca66cd4e8cb9.mock.pstmn.io/aargeee)
+![](https://ce7cd2dd-8fa4-4901-9cc8-1d42ec30a398.mock.pstmn.io/)
 <!--
 **aargeee/aargeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
