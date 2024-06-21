@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-![](https://2f9092a7-0479-4828-9ae3-ca66cd4e8cb9.mock.pstmn.io/aargeee)
-![](https://ce7cd2dd-8fa4-4901-9cc8-1d42ec30a398.mock.pstmn.io/)
+A website like no other: [❌Do not visit❌](https://www.rahulgoel.dev/)
+
+Also I wouldn't recommend checking [this](https://github.com/aargeee/whwh)
+
+Also I found out about a boring blog. [Do not try to read this](https://blog.rahulgoel.dev/)
 <!--
 **aargeee/aargeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
